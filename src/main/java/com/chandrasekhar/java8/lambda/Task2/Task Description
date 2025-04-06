@@ -1,0 +1,12 @@
+Task Set 2: Lambda with Parameters
+
+Task 2.1 – Lambda with Single Parameter
+Create a new functional interface called NameGreeter with:
+void greet(String name);
+In LambdaBasicDemo, implement this using a lambda that prints "Hi <name>".
+
+Task 2.2 – Lambda with Multiple Parameters and Return
+Create another functional interface called Adder:
+int add(int a, int b);
+Implement this using a lambda in the same main() method that returns the sum and print the result.
+

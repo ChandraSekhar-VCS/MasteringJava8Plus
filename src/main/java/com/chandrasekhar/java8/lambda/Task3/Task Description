@@ -1,0 +1,20 @@
+Task Set 3: Functional Interfaces from java.util.function
+
+Task 3.1 – Use Predicate
+In LambdaBasicDemo, use Predicate<String> to:
+Check if a string starts with the letter "J".
+Test with a few values and print the results.
+
+Task 3.2 – Use Function
+Use Function<String, Integer> to:
+Return the length of the input string.
+Print output for sample values.
+
+Task 3.3 – Use Consumer
+Use Consumer<String> to:
+Print the input string in uppercase.
+
+Task 3.4 – Use Supplier
+Use Supplier<Double> to:
+Return a random double value (using Math.random()).
+Call it multiple times and print the results.

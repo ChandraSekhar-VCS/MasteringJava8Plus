@@ -1,0 +1,13 @@
+Task Set 1: Basic Lambda Syntax and Functional Interface
+
+Task 1.1 – Create a Custom Functional Interface
+Inside the lambda package, create a functional interface called SimplePrinter.
+It should contain a single abstract method void printMessage();.
+Do not use any implementation yet.
+
+Task 1.2 – Implement the Interface Using Lambda
+Create a class LambdaBasicDemo inside the same lambda package.
+In the main() method:
+Use the SimplePrinter interface.
+Implement it using a lambda that prints "Lambda executed!" to the console.
+Call the method.
