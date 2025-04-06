@@ -1,0 +1,9 @@
+ Task 3: Pass Lambdas as Arguments to a Method
+
+Objective: Learn how to pass lambdas to methods for dynamic behavior.
+
+Instructions:
+Create a method that accepts a List<Integer> and a Predicate<Integer>.
+Use this method to:
+Print all even numbers from a list.
+Print all numbers greater than a threshold (say, 50).
