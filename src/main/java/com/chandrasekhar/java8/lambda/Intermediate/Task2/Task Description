@@ -1,0 +1,11 @@
+ask 2: Use Lambdas with Built-In Functional Interfaces
+
+Objective: Work with Predicate, Function, and Consumer interfaces.
+
+Instructions:
+Create a list of strings with different names.
+Perform the following:
+Use a Predicate lambda to filter names that start with a specific letter (e.g., 'A').
+Use a Function lambda to transform the filtered names to uppercase.
+Use a Consumer lambda to print the names.
+Use chained operations or loop+lambda combinations based on what you feel most comfortable with.
