@@ -1,0 +1,13 @@
+Task 1: Create and Use a Custom Functional Interface
+
+Objective: Design a custom functional interface to perform different operations using lambdas.
+
+Instructions:
+Define a custom functional interface that takes two integers and returns an integer result.
+Implement 3 lambda expressions using this interface:
+One for addition
+One for subtraction
+One for multiplication
+Create a method that accepts two integers and a lambda (using the custom interface) and returns the result.
+Use this method to test all three operations.
+

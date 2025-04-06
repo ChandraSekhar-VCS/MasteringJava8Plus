@@ -1,4 +1,4 @@
-package com.chandrasekhar.java8.lambda.Task3;
+package com.chandrasekhar.java8.lambda.Basic.Task3;
 
 import java.util.function.Consumer;
 import java.util.function.Function;

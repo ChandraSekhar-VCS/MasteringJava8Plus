@@ -1,4 +1,4 @@
-package com.chandrasekhar.java8.lambda.Task2;
+package com.chandrasekhar.java8.lambda.Basic.Task2;
 
 import java.util.Scanner;
 

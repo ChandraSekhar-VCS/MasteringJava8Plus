@@ -1,4 +1,4 @@
-package com.chandrasekhar.java8.lambda.Task1;
+package com.chandrasekhar.java8.lambda.Basic.Task1;
 
 public class LambdaBasicDemo {
     public static void main(String[] args) {
